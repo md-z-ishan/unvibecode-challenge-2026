@@ -1,0 +1,11 @@
+﻿usage: unvibecode [-h] [--version] {health,review,resume} ...
+
+Create a connected code map and a business workflow and risk review.
+
+positional arguments:
+  {health,review,resume}
+    review              Review a source repository
+
+options:
+  -h, --help            show this help message and exit
+  --version             show program's version number and exit

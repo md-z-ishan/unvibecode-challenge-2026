@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Cloned target repo (kept local)
+target_repo/
+
+# Large generated HTML/JS artifacts (bundle files over 1MB)
+unvibecode_results/
+
+# Python cache & OS files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
